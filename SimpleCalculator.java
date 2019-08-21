@@ -47,13 +47,9 @@ public class SimpleCalculator extends Operations {
                         +num2+" is "+ div(num1,num2)+".");
                 break;
             default:
-                System.out.println("Illegal Operation!");
-                
-                
+                System.out.println("Illegal Operation!");   
         }
-        
-        
+         
     }
-    
-    
+   
 }
